@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo using ANANKE</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Hugo using ANANKE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jan 2022 13:02:16 +0530</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing insert image</title>
+      <link>http://example.org/posts/post-03/</link>
+      <pubDate>Wed, 26 Jan 2022 13:02:16 +0530</pubDate>
+      
+      <guid>http://example.org/posts/post-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What am I doing with HUGO</title>
+      <link>http://example.org/posts/post-02/</link>
+      <pubDate>Wed, 26 Jan 2022 11:13:43 +0530</pubDate>
+      
+      <guid>http://example.org/posts/post-02/</guid>
+      <description>I am trying to create a personal web page on GitHub using Hugo static site generator. A few links which I have been using for this:
+Getting Started with HUGO</description>
+    </item>
+    
+    <item>
+      <title>Why HUGO?</title>
+      <link>http://example.org/posts/post-01/</link>
+      <pubDate>Fri, 21 Jan 2022 12:29:28 +0530</pubDate>
+      
+      <guid>http://example.org/posts/post-01/</guid>
+      <description>Why am I trying out HUGO static website generator?
+A lot of articles on the web mentions that HUGO is the fastest static site generator available today.
+7 REASONS WHY HUGO IS AWESOME
+Also, it seem well suited to implement a free web site via GitHUB.
+Jekyll is the most on for GitHub Pages, but comes across as unnecessarily complicated for simple blogs or demo sites.
+GitHub Pages are powered by Jekyll behind the scenes, so they’re a great way to host your Jekyll-powered website for free.</description>
+    </item>
+    
+  </channel>
+</rss>
